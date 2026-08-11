@@ -11,8 +11,13 @@ https://doi.org/10.1101/2025.06.25.661479
 
 - MATLAB analysis scripts for generating the main result figures (MATLAB R2022a)
 - Processed calcium imaging datasets
-- Deep learning analysis scripts
 - Source empirical data underlying the main figures
+- Files that are related to empirical analysis include as below
+- Fig2_main.m   (all_cell.mat)
+- Fig3C_D_main.m  (Fig3C_E1_source_data.mat, Fig3E_source_data.mat)
+- Fig4_main.m (Fig4_distanceToA.mat, Fig4_distanceToB.mat)
+
+- Deep learning analysis scripts
 
 ## Computational modeling
 
