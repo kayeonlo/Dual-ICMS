@@ -12,7 +12,7 @@ https://doi.org/10.1101/2025.06.25.661479
 - MATLAB analysis scripts for generating the main and supplementary figures (MATLAB R2022a)
 - Processed calcium imaging datasets
 - Deep learning analysis scripts
-- Source data underlying the main and supplementary figures
+- Source empirical data underlying the main figures
 
 ## Computational modeling
 
