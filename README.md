@@ -2,10 +2,8 @@
 
 This repository contains the source code and processed data associated with the manuscript:
 
-**Single-Cell and Population-Level Neuromodulation Dynamics in Dual-Electrode Intracortical Stimulation**
-
-Kayeon Kim *et al.*  
-https://doi.org/10.1101/2025.06.25.661479
+**Kim, K., Sonego, V., Strohmer, B. et al. Single-cell and population-level neuromodulation dynamics in dual-electrode intracortical microstimulation. 
+Commun Biol (2026). https://doi.org/10.1038/s42003-026-11042-w
 
 ## Repository contents
 
