@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+matplotlib
+ipython
+mpmath
+seaborn
+scikit-learn
+tabulate
+joblib
+shap

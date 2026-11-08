@@ -1,0 +1,6 @@
+The code used for the pre-processing used in the machine learning model is to be found in the file "Pre-processing.m". The code is written in MatLab, and includes at the end individually annotated functions and plots, including article panels and some useful in reproducing the analysis.
+
+The code used for the machine learning analysis and simulation is included in the file "Bimodal full analysis.ipynb" and it is fully annotated. Required python libraries are included in the file "Requirements.txt".
+
+The input data for the machine learning analysis, produced during pre-processing, is also uploaded as a .mat file: X_coords.mat, Y_response_no_subtraction.mat and X_final_final_final.mat
+
