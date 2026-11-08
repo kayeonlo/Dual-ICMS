@@ -27,15 +27,16 @@ https://github.com/kayeonlo/Dual-ICMS-visual-cortex
 
 
 ## Deep Learning analysis
-ML_README.txt
-ML_Requirements.txt
+- ML_README.txt
+- ML_Requirements.txt
 
-Related codes are below:
-Bimodal full analysis.ipynb
-Pre-processing.m
-X_coords.mat
-X_final_final_final.mat
-Y_response_no_subtraction.mat
+Related codes are as below:
+
+- Bimodal full analysis.ipynb
+- Pre-processing.m
+- X_coords.mat
+- X_final_final_final.mat
+- Y_response_no_subtraction.mat
 
 
 ## Reproducibility
