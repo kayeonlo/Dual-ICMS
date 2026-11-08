@@ -25,6 +25,19 @@ The spiking cortical network model used in this study is available in a separate
 
 https://github.com/kayeonlo/Dual-ICMS-visual-cortex
 
+
+## Deep Learning analysis
+ML_README.txt
+ML_Requirements.txt
+
+Related codes are below:
+Bimodal full analysis.ipynb
+Pre-processing.m
+X_coords.mat
+X_final_final_final.mat
+Y_response_no_subtraction.mat
+
+
 ## Reproducibility
 
 The processed data and analysis scripts provided in this repository are sufficient to reproduce all analyses and figures presented in the manuscript.
